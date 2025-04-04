@@ -1,10 +1,18 @@
+## Sobre mim
+
+Estudante de Ciência da Computação na UFRJ, com conhecimento em Python, C e interesse em ciência de dados e aprendizado de novas tecnologias. Busco oportunidades para aplicar e expandir meus conhecimentos na área, combinando entusiasmo por desafios com a vontade de construir uma sólida base acadêmica e profissional.
+
 <div>
 <a href="https://github.com/LaisaMedeiros">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisaMedeiros&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisaMedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Contatos:
+## Contatos
+
+<!div>
+<a href="https://www.linkedin.com/in/laísa-tatiana-medeiros-572a59247" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <!--div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
