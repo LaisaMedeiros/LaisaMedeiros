@@ -10,7 +10,7 @@ Estudante de Ciência da Computação na UFRJ, com conhecimento em Python, C e i
 
 ## Contatos
 
-<!div>
+<div>
 <a href="https://www.linkedin.com/in/laísa-tatiana-medeiros-572a59247" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
