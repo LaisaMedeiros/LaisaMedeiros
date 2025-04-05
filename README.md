@@ -2,6 +2,7 @@
 
 Estudante de Ciência da Computação na UFRJ, com conhecimentos em Python, C e análise de dados. Tenho grande interesse em Ciência de Dados, especialmente em análise exploratória, aprendizado de máquina e visualização de dados. Busco oportunidades de projetos acadêmicos e estágio para aplicar e aprofundar meus conhecimentos, contribuir com soluções baseadas em dados e desenvolver uma base sólida para atuar profissionalmente na área.
 
+
 <div>
   <img src="https://raw.githubusercontent.com/LaisaMedeiros/LaisaMedeiros/refs/heads/main/picture.jpg" alt="Demo do projeto">
 </div>
