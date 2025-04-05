@@ -16,7 +16,7 @@ Estudante de Ciência da Computação na UFRJ, com conhecimentos em Python, C e 
 ## Linguagens e Ferramentas
 
 <div>
-<a><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Python&logoColor=white" target="_blank"></a>   
+<a><img loading="lazy" src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=Python&logoColor=white" target="_blank"></a>   
 </div>
 
 ## Contatos
