@@ -13,6 +13,12 @@ Estudante de Ciência da Computação na UFRJ, com conhecimentos em Python, C e 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisaMedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Linguagens e Ferramentas
+
+<div>
+<a><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Python&logoColor=white" target="_blank"></a>   
+</div>
+
 ## Contatos
 
 <div>
