@@ -3,7 +3,7 @@
 Estudante de Ciência da Computação na UFRJ, com conhecimentos em Python, C e análise de dados. Tenho grande interesse em Ciência de Dados, especialmente em análise exploratória, aprendizado de máquina e visualização de dados. Busco oportunidades de projetos acadêmicos e estágio para aplicar e aprofundar meus conhecimentos, contribuir com soluções baseadas em dados e desenvolver uma base sólida para atuar profissionalmente na área.
 
 <div>
-  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Demo do projeto">
+  <img src="https://lofigirl.com/wp-content/uploads/2023/02/DAY_UPDATE_ILLU.jpg" alt="Demo do projeto">
 </div>
 
 <div>
