@@ -4,7 +4,6 @@ Estudante de Ciência da Computação na UFRJ, com conhecimentos em Python, C e 
 
 <div>
   <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Demo do projeto">
-  <!--img src="https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif" alt="Demo do projeto"-->
 </div>
 
 <div>
