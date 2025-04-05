@@ -3,7 +3,8 @@
 Estudante de Ciência da Computação na UFRJ, com conhecimentos em Python, C e análise de dados. Tenho grande interesse em Ciência de Dados, especialmente em análise exploratória, aprendizado de máquina e visualização de dados. Busco oportunidades de projetos acadêmicos e estágio para aplicar e aprofundar meus conhecimentos, contribuir com soluções baseadas em dados e desenvolver uma base sólida para atuar profissionalmente na área.
 
 <div style="width:300px; height:200px; overflow:hidden;">
-  <img src="https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif" alt="Demo do projeto">
+  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Demo do projeto">
+  <!--img src="https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif" alt="Demo do projeto"-->
 </div>
 
 <div>
