@@ -132,8 +132,3 @@ Estudante de Ciência da Computação na UFRJ, com conhecimentos em Python, C e 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?LaisaMedeiros=LaisaMedeiros&show_icons=true&theme=radical)
-
